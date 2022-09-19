@@ -1,9 +1,18 @@
 
 This task have completed using rules and RegEx. 
 
-# rules 
+## Problem statement
+- Extract positive, isolated and lymph_prev_word values from Reports
+```
+input = '1. LEVEL III LYMPHNODES: (2/15) LYMPHNODES ISOLATED'
+output:
+poitive - 2
+isolated- 15
+lymph_prev_word - LEVEL III LYMPHNODES
+```
 
-## This rules used in Roman Removal:
+
+## Following table rules used in Roman Removal:
 | Attempt | Type |
 | :---: | :---: |
 | Type3 | 'I', 'II','III', 'IV', 'V', 'VI', 'VII', 'VIII','IX', 'X' | 

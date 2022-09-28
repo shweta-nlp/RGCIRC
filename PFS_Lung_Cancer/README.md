@@ -49,6 +49,7 @@ Our Data:
 - file name - `bert-for-sequence-classification.ipynb`
 - Simple classification model we used to classify `progression` and `no progression`.
 - Datasets used for model training `other.csv` and `nlp_progression_without_date.csv`
+- we have perfomed data clearning on notes and thats notes we considered for training column name `clean_report_text`
 - achieved model accuracy `93%`
 - detailed discussion is performed in jupyter notebook
 
